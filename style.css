@@ -181,10 +181,10 @@ h2 { font-family: 'PT Sans', sans-serif;
 	font-family: 'PT Sans', sans-serif;
 	font-size: 14px;
 	font-weight:400;
-	color: #999;
+	color: #666;
 }
 .browse a { 
-	color: #FFF;
+	color: #666;
 	outline: none;
 	text-decoration: none;
 }
@@ -681,33 +681,21 @@ padding:20px;
 	float: right;
 	color:#999;
 }
-#addlinks { 
+.storewrapper { 
 	width: 960px;
 	padding-top: 20px;
 	margin: 0 auto;
 	text-align:left;
-	color: #ccc;
+	color: #666;
 }
-#addlinks a { 
+.storewrapper a { 
 	list-style: none;
 	outline: none;
 	text-align:left;
 	color: #666;
 }
-#addlinks2 { 
-	width: 960px;
-	margin-top: -35px;
-	text-align:left;
-	float:right;
-}
-#addlinks2 a { 
-	list-style: none;
-	outline: none;
-	text-align:left;
-	color: #ccc;
-}
-#addlinks2 a:hover {
-	color: #00B6F2;
+.storewrapper a:hover {
+	color: #000;
 	list-style: none;
 	outline: none;
 }
